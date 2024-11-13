@@ -1,0 +1,602 @@
+[
+ {
+   "Name": "Adam Kay"
+ },
+ {
+   "Name": "Daniel Kahneman"
+ },
+ {
+   "Name": "Paul Kalanithi"
+ },
+ {
+   "Name": "Russ Harris"
+ },
+ {
+   "Name": "Viktor E. Frankl"
+ },
+ {
+   "Name": "Oliver Sacks"
+ },
+ {
+   "Name": "Michael Mosley"
+ },
+ {
+   "Name": "Jordan B. Peterson"
+ },
+ {
+   "Name": "Atul Gawande"
+ },
+ {
+   "Name": "Giulia Enders"
+ },
+ {
+   "Name": "Norman Doidge"
+ },
+ {
+   "Name": "Anthony William"
+ },
+ {
+   "Name": "Keri Smith"
+ },
+ {
+   "Name": "Dr Natasha Campbell-McBride"
+ },
+ {
+   "Name": "Austin Kleon"
+ },
+ {
+   "Name": "Eline Snel"
+ },
+ {
+   "Name": "Michael Greger"
+ },
+ {
+   "Name": "Tina Payne Bryson"
+ },
+ {
+   "Name": "Juju Sundin"
+ },
+ {
+   "Name": "American Psychiatric Association"
+ },
+ {
+   "Name": "Philippa Perry"
+ },
+ {
+   "Name": "American Psychological Association"
+ },
+ {
+   "Name": "Dr. Eben Alexander"
+ },
+ {
+   "Name": "Rebecca Skloot"
+ },
+ {
+   "Name": "Tony Attwood"
+ },
+ {
+   "Name": "Henry Marsh"
+ },
+ {
+   "Name": "Wynn Kapit"
+ },
+ {
+   "Name": "Steven R. Gundry"
+ },
+ {
+   "Name": "Michael Pollan"
+ },
+ {
+   "Name": "John Gottman"
+ },
+ {
+   "Name": "Allen Carr"
+ },
+ {
+   "Name": "J. Mark G. Williams"
+ },
+ {
+   "Name": "Jennifer Worth"
+ },
+ {
+   "Name": "Matthew McKay"
+ },
+ {
+   "Name": "Bruce D. Perry"
+ },
+ {
+   "Name": "Frederic Delavier"
+ },
+ {
+   "Name": "Johanna Basford"
+ },
+ {
+   "Name": "Esther Perel"
+ },
+ {
+   "Name": "Joe Dispenza"
+ },
+ {
+   "Name": "Tara Brach"
+ },
+ {
+   "Name": "Dr Richard Shepherd"
+ },
+ {
+   "Name": "Ian B. Wilkinson"
+ },
+ {
+   "Name": "Marsha M. Linehan"
+ },
+ {
+   "Name": "Kathy Hoopmann"
+ },
+ {
+   "Name": "Thomas W. Myers"
+ },
+ {
+   "Name": "Byron Katie"
+ },
+ {
+   "Name": "Louise Tucker"
+ },
+ {
+   "Name": "Bessel van der Kolk"
+ },
+ {
+   "Name": "Anatomical Chart Company"
+ },
+ {
+   "Name": "Catherine M. Pittman"
+ },
+ {
+   "Name": "Siddhartha Mukherjee"
+ },
+ {
+   "Name": "David Perlmutter"
+ },
+ {
+   "Name": "Irvin Yalom"
+ },
+ {
+   "Name": "Dr. Sarah Edelman"
+ },
+ {
+   "Name": "Louise Hay"
+ },
+ {
+   "Name": "Karen Pryor"
+ },
+ {
+   "Name": "Kristin Neff"
+ },
+ {
+   "Name": "R.  Andrew Biel"
+ },
+ {
+   "Name": "Barbara Ann Brennan"
+ },
+ {
+   "Name": "Alice Miller"
+ },
+ {
+   "Name": "Toni Weschler"
+ },
+ {
+   "Name": "Mark Wolynn"
+ },
+ {
+   "Name": "Judith Herman"
+ },
+ {
+   "Name": "Irvin D. Yalom"
+ },
+ {
+   "Name": "Amy Ramos"
+ },
+ {
+   "Name": "Paul Gilbert"
+ },
+ {
+   "Name": "Matthew Johnstone"
+ },
+ {
+   "Name": "Dale E. Bredesen"
+ },
+ {
+   "Name": "Inna Segal"
+ },
+ {
+   "Name": "T. Colin Campbell"
+ },
+ {
+   "Name": "Judith S. Beck"
+ },
+ {
+   "Name": "Peg Dawson"
+ },
+ {
+   "Name": "Sue Shepherd"
+ },
+ {
+   "Name": "Nessa Carey"
+ },
+ {
+   "Name": "Kelly Brogan"
+ },
+ {
+   "Name": "Brian L. Weiss"
+ },
+ {
+   "Name": "Elaine Gottscha"
+ },
+ {
+   "Name": "Elaine N. Aron"
+ },
+ {
+   "Name": "Dr. Rangan Chatterjee"
+ },
+ {
+   "Name": "Dr. James R. Doty"
+ },
+ {
+   "Name": "Jeffrey E. Young"
+ },
+ {
+   "Name": "Babette Rothschild"
+ },
+ {
+   "Name": "C G Jung"
+ },
+ {
+   "Name": "Kari Dunn Buron"
+ },
+ {
+   "Name": "Dennis Greenberger"
+ },
+ {
+   "Name": "Virginia M. Axline"
+ },
+ {
+   "Name": "Chimamanda Ngozi Adichie"
+ },
+ {
+   "Name": "Hillary Boynton"
+ },
+ {
+   "Name": "Carl Rogers"
+ },
+ {
+   "Name": "Vasant Lad"
+ },
+ {
+   "Name": "Christopher Germer"
+ },
+ {
+   "Name": "Daniel J Siegel"
+ },
+ {
+   "Name": "E B Sledge"
+ },
+ {
+   "Name": "Steven C. Hayes"
+ },
+ {
+   "Name": "David Gillespie"
+ },
+ {
+   "Name": "Gabor Mate"
+ },
+ {
+   "Name": "Noel Fitzpatrick"
+ },
+ {
+   "Name": "Rick Strassman M D"
+ },
+ {
+   "Name": "Cathy Malchiodi"
+ },
+ {
+   "Name": "Evelyn Tribole"
+ },
+ {
+   "Name": "Ina May Gaskin"
+ },
+ {
+   "Name": "Anthony F. T. Brown"
+ },
+ {
+   "Name": "Blandine Calais-Germain"
+ },
+ {
+   "Name": "Sigmund Freud"
+ },
+ {
+   "Name": "Olivier Picard"
+ },
+ {
+   "Name": "Ajay Sharma"
+ },
+ {
+   "Name": "John Medina"
+ },
+ {
+   "Name": "William J. Walsh"
+ },
+ {
+   "Name": "William Davis"
+ },
+ {
+   "Name": "William R. Miller"
+ },
+ {
+   "Name": "Victoria Parker"
+ },
+ {
+   "Name": "James Wong"
+ },
+ {
+   "Name": "Izabella Wentz"
+ },
+ {
+   "Name": "Professor Nicholas J. Talley"
+ },
+ {
+   "Name": "Terry Wahls"
+ },
+ {
+   "Name": "Rael Isacowitz"
+ },
+ {
+   "Name": "Bernie Clark"
+ },
+ {
+   "Name": "Kelly A. Turner"
+ },
+ {
+   "Name": "Judy Hall"
+ },
+ {
+   "Name": "Meera Lee Patel"
+ },
+ {
+   "Name": "Ben Lynch"
+ },
+ {
+   "Name": "Lindsay C. Gibson"
+ },
+ {
+   "Name": "Max Lugavere"
+ },
+ {
+   "Name": "Gary Taubes"
+ },
+ {
+   "Name": "Adriana P. Tiziani"
+ },
+ {
+   "Name": "Marie F. Mongan"
+ },
+ {
+   "Name": "Jean Liedloff"
+ },
+ {
+   "Name": "Tim Greet"
+ },
+ {
+   "Name": "Clair Davies"
+ },
+ {
+   "Name": "F. Batmanghelidj"
+ },
+ {
+   "Name": "Amy Myers"
+ },
+ {
+   "Name": "Janina Fisher"
+ },
+ {
+   "Name": "Fiona Zandt"
+ },
+ {
+   "Name": "Paul Stamets"
+ },
+ {
+   "Name": "Kimberly Snyder"
+ },
+ {
+   "Name": "William Li"
+ },
+ {
+   "Name": "Weston Price"
+ },
+ {
+   "Name": "Pat Ogden"
+ },
+ {
+   "Name": "Daniel Siegel"
+ },
+ {
+   "Name": "Robert Jordan"
+ },
+ {
+   "Name": "Sahara Rose Ketabi"
+ },
+ {
+   "Name": "Keith G. Allman"
+ },
+ {
+   "Name": "Nicholas Carr"
+ },
+ {
+   "Name": "Megan Jayne Crabbe"
+ },
+ {
+   "Name": "Caroline Foran"
+ },
+ {
+   "Name": "Evette Rose"
+ },
+ {
+   "Name": "Diamond Books"
+ },
+ {
+   "Name": "Elizabeth Blackburn"
+ },
+ {
+   "Name": "John B. West"
+ },
+ {
+   "Name": "Robert A. Johnson"
+ },
+ {
+   "Name": "Dr. Richard K. Bernstein"
+ },
+ {
+   "Name": "Vinay Kumar"
+ },
+ {
+   "Name": "Stanley Rosenberg"
+ },
+ {
+   "Name": "Jane McLelland"
+ },
+ {
+   "Name": "Alan Carr"
+ },
+ {
+   "Name": "John D. Teasdale"
+ },
+ {
+   "Name": "Dr. Danny Penman"
+ },
+ {
+   "Name": "Louann Brizendine"
+ },
+ {
+   "Name": "Maria Treben"
+ },
+ {
+   "Name": "M. E. Thomas"
+ },
+ {
+   "Name": "Douglas"
+ },
+ {
+   "Name": "John E. Sarno"
+ },
+ {
+   "Name": "Christopher G. Fairburn"
+ },
+ {
+   "Name": "Robert D. Hare"
+ },
+ {
+   "Name": "Christiane Northrup"
+ },
+ {
+   "Name": "Antonio Damasio"
+ },
+ {
+   "Name": "Peter Gray"
+ },
+ {
+   "Name": "Wendy T. Behary"
+ },
+ {
+   "Name": "Lori Gottlieb"
+ },
+ {
+   "Name": "Helen Kennerley"
+ },
+ {
+   "Name": "Catherine Gray"
+ },
+ {
+   "Name": "Ingrid Adelsberger"
+ },
+ {
+   "Name": "Deborah A. Dana"
+ },
+ {
+   "Name": "Scott C. Anderson"
+ },
+ {
+   "Name": "Laura Thomas"
+ },
+ {
+   "Name": "Harriet Lerner"
+ },
+ {
+   "Name": "Lara Briden"
+ },
+ {
+   "Name": "J. William Worden"
+ },
+ {
+   "Name": "Mikao Usui"
+ },
+ {
+   "Name": "Richard Barnett"
+ },
+ {
+   "Name": "David Epstein"
+ },
+ {
+   "Name": "Ted J. Kaptchuk"
+ },
+ {
+   "Name": "Gitta Jacob"
+ },
+ {
+   "Name": "David D. Burns"
+ },
+ {
+   "Name": "Steve Silberman"
+ },
+ {
+   "Name": "Edmund J. Bourne"
+ },
+ {
+   "Name": "Michael White"
+ },
+ {
+   "Name": "Mary Roach"
+ },
+ {
+   "Name": "Daniel J. Siegel"
+ },
+ {
+   "Name": "Susan Perrow"
+ },
+ {
+   "Name": "Alejandro Junger"
+ },
+ {
+   "Name": "Rhena Branch"
+ },
+ {
+   "Name": "Dr. Jason Fung"
+ },
+ {
+   "Name": "Rebecca Fett"
+ },
+ {
+   "Name": "Dr Anjali Mahto"
+ },
+ {
+   "Name": "Nancy McWilliams"
+ },
+ {
+   "Name": "Thomas A. Harris"
+ },
+ {
+   "Name": "Gabrielle Jackson"
+ },
+ {
+   "Name": "Maisie Hill"
+ },
+ {
+   "Name": "Mireille Guiliano"
+ }
+]
